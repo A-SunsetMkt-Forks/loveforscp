@@ -41,7 +41,7 @@
 ;numMessageLayers=2
 ;initialMessageLayerVisible=true
 ;numBookMarks=10
-;debugMenu.visible=true
+;debugMenu.visible=false
 ;layerType=ltAddAlpha
 ;frameGraphic=
 ;frameColor=0x000000
