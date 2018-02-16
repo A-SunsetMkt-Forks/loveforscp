@@ -1,8 +1,8 @@
 //ティラノビルダーによる自動ビルド　
 ;global.config_version=3.14
-;System.title=SiteCN34
+;System.title=Love&Foundation
 ;projectID=SiteCN34
-;ScreenRatio=fix
+;ScreenRatio=fit
 ;scWidth=640
 ;scHeight=480
 ;chSpeeds.fast=10
